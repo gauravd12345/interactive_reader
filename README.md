@@ -1,2 +1,2 @@
 # interactive_reader
-A device that enhances the experience of reading books through visual descriptions of text.
+A device that assists with reading comprehension by providing visual descriptions of text.
